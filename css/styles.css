@@ -2,7 +2,14 @@ body{
 background: lightsalmon;
 
 }
-    h1{
+    h1,
+    h2,
+    h3{
         text-align: center;
 
     }
+img {
+    display: flex;
+    max-width: 300px;
+    padding: 20px;
+}
